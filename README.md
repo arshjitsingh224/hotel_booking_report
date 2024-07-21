@@ -31,6 +31,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Some Important insights from the Dashboard
 
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- ADR(Average Daily rate) is constant when occuapancy increases or decreases. This means hotels are using flat pricing over weekdays and weekends.Holets can opt for dynamic pricing to increase revenue.
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 - Week 24 recorded the highest revenue among all, which is 139.6 Million.
 - Elite type rooms generates the highest revenue (560 M) followed by premium, presidential and standard.
